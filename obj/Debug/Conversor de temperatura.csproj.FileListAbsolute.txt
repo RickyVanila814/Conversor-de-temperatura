@@ -1,0 +1,11 @@
+C:\Users\henrique.ffonseca\source\repos\Conversor de temperatura\Conversor de temperatura\bin\Debug\Conversor de temperatura.exe.config
+C:\Users\henrique.ffonseca\source\repos\Conversor de temperatura\Conversor de temperatura\bin\Debug\Conversor de temperatura.exe
+C:\Users\henrique.ffonseca\source\repos\Conversor de temperatura\Conversor de temperatura\bin\Debug\Conversor de temperatura.pdb
+C:\Users\henrique.ffonseca\source\repos\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor de temperatura.csproj.AssemblyReference.cache
+C:\Users\henrique.ffonseca\source\repos\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor_de_temperatura.Form1.resources
+C:\Users\henrique.ffonseca\source\repos\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor_de_temperatura.Properties.Resources.resources
+C:\Users\henrique.ffonseca\source\repos\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor de temperatura.csproj.GenerateResource.cache
+C:\Users\henrique.ffonseca\source\repos\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor de temperatura.csproj.CoreCompileInputs.cache
+C:\Users\henrique.ffonseca\source\repos\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor de temperatura.exe
+C:\Users\henrique.ffonseca\source\repos\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor de temperatura.pdb
+C:\Users\henrique.ffonseca\source\repos\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor de temperatura.exe.config
